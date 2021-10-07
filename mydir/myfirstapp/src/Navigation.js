@@ -1,19 +1,26 @@
 import React from "react";
-import { Menu, MenuItem } from "@dhis2/ui";
+import {Menu, MenuItem} from "@dhis2/ui";
+import { useDataQuery } from '@dhis2/app-runtime'
+
 
 export function Navigation(props) {
-  return (
-    <Menu>
-      <MenuItem
-        label="Browse"
-        active={props.activePage == "Browse"}
-        onClick={() => props.activePageHandler("Browse")}
-      />
-      <MenuItem
-        label="Insert"
-        active={props.activePage == "Insert"}
-        onClick={() => props.activePageHandler("Insert")}
-      />
-    </Menu>
-  );
+    return (
+        <Menu>
+            <MenuItem
+                label="Browse"
+                active={props.activePage == "Browse"}
+                onClick={() => props.activePageHandler("Browse")}
+            />
+            <MenuItem
+                label="Insert"
+                active={props.activePage == "Insert"}
+                onClick={() => props.activePageHandler("Insert")}
+            />
+            <MenuItem
+                label="Datasets"
+                active={props.activePage == "Datasets"}
+                onClick={() => props.activePageHandler("Datasets")}
+            />
+        </Menu>
+    );
 }

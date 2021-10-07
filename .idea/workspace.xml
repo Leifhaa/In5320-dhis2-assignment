@@ -5,16 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="226f848c-b9c3-4c02-bb35-0bc66749aea7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mandatory-assignment-3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mydir/myfirstapp/src/Datasets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mydir/myfirstapp/src/DatasetsTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mydir/myfirstapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/mydir/myfirstapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mydir/myfirstapp/src/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/mydir/myfirstapp/src/App.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mydir/myfirstapp/src/Browse.js" beforeDir="false" afterPath="$PROJECT_DIR$/mydir/myfirstapp/src/Browse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mydir/myfirstapp/src/Insert.js" beforeDir="false" afterPath="$PROJECT_DIR$/mydir/myfirstapp/src/Insert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mydir/myfirstapp/src/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/mydir/myfirstapp/src/Navigation.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +47,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Leifh\Desktop\Skole\Uio\IN5320-development-in-platform-ecosystems\mandatory-assignment-3\mydir\myfirstapp\src" />
+      <recent name="C:\Users\Leifh\Desktop\Skole\Uio\IN5320-development-in-platform-ecosystems\mandatory-assignment-3\mydir\myfirstapp\src\Datasets" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
@@ -63,11 +80,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633608512893</updated>
-      <workItem from="1633608514048" duration="12169000" />
+      <workItem from="1633608514048" duration="23340000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

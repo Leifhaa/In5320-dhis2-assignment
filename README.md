@@ -19,3 +19,7 @@ I tillegg måtte jeg kjøre denne:
 yarn add --dev @dhis2/cli-app-scripts
 Hvis ikke fikk jeg feilen:
 d2-appscripts-not-found
+
+
+Todo:
+Add nodemon for quick reloading (See docker link regarding this)
